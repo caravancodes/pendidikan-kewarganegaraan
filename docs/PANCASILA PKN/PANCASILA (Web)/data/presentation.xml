@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<presentation title="PANCASILA" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{6AAA1925-89D2-4A95-961B-EF396208B93F}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="PANCASILA" titleNormalized="pancasila" src="slide1.swf" size="92929" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>PANCASILA
+Sejarah Dan Filsafat Pancasila</text>
+		</slide>
+		<slide index="1" title="D3IF-40-02" titleNormalized="d3if-40-02" src="slide2.swf" size="24891" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>D3IF-40-02
+6706164101 (Abid Hanifussafly)
+6706160047 (Elisabeth Meisah S.)
+6706160014 (Muhammad Faisal Amir)
+6706160113 (Rivkal Sukma Sanjaya)
+6706164110 (Rizky Hilman)
+6706160029 (Saiful Apriyanto)
+6706164002 (Seto Jalu Priyono)
+</text>
+		</slide>
+		<interaction index="2" title="" titleNormalized="" src="intr1.swf" size="810611" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset2" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</interaction>
+		<slide index="3" title="Sejarah Pancasila" titleNormalized="sejarah pancasila" src="slide4.swf" size="6096" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Sejarah Pancasila
+Lahirnya Pancasila adalah judul pidato yang disampaikan oleh Soekarno dalam sidang Dokuritsu Junbi Cosakai (Badan Penyelidik Usaha Persiapan Kemerdekaan) pada tanggal 1 Juni 1945. Dalam pidato inilah konsep dan rumusan awal “Pancasila” pertama kali dikemukakan oleh Soekarno sebagai dasar negara Indonesia merdeka.
+Pidato ini pada awalnya disampaikan oleh Soekarno secara aklamasi tanpa judul dan baru mendapat sebutan “Lahirnya Pancasila” oleh mantan Ketua BPUPK Dr. Radjiman Wedyodiningrat dalam kata pengantar buku yang berisi pidato yang kemudian dibukukan oleh BPUPK tersebut.</text>
+		</slide>
+		<slide index="4" title="Latar Belakang Sejarah Pancasila" titleNormalized="latar belakang sejarah pancasila" src="slide5.swf" size="8527" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Latar Belakang Sejarah Pancasila 
+Menjelang kekalahan Tentara Kekaisaran Jepang di akhir Perang Pasifik, tentara pendudukan Jepang di Indonesia berusaha menarik dukungan rakyat Indonesia dengan membentuk Dokuritsu Junbi Cosakai ("Badan Penyelidik Usaha Persiapan Kemerdekaan" atau BPUPKI, yang kemudian menjadi BPUPKI, dengan tambahan "Indonesia").
+Badan ini mengadakan sidangnya yang pertama dari tanggal 29 Mei (yang nantinya selesai tanggal 1 Juni 1945).Rapat dibuka pada tanggal 28 Mei 1945 dan pembahasan dimulai keesokan harinya 29 Mei 1945 dengan tema dasar negara. Rapat pertama ini diadakan di gedung Chuo Sangi In di Jalan Pejambon 6 Jakarta yang kini dikenal dengan sebutan Gedung Pancasila. Pada zaman Belanda, gedung tersebut merupakan gedung Volksraad (Perwakilan Rakyat).
+
+
+</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="6736" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Setelah beberapa hari tidak mendapat titik terang, pada tanggal 1 Juni 1945, Bung Karno mendapat giliran untuk menyampaikan gagasannya tentang dasar negara Indonesia merdeka, yang dinamakannya "Pancasila". Pidato yang tidak dipersiapkan secara tertulis terlebih dahulu itu diterima secara aklamasi oleh segenap anggota Dokuritsu Junbi Cosakai.
+Selanjutnya Dokuritsu Junbi Cosakai membentuk Panitia Kecil untuk merumuskan dan menyusun Undang-Undang Dasar dengan berpedoman pada pidato Bung Karno tersebut.
+Dibentuklah Panitia Sembilan (terdiri dari Ir. Soekarno, Mohammad Hatta, Mr. AA Maramis, Abikoesno Tjokrosoejoso, Abdul Kahar Muzakir, Agus Salim, Achmad Soebardjo, Wahid Hasjim, dan Mohammad Yamin) yang ditugaskan untuk merumuskan kembali Pancasila sebagai Dasar Negara berdasar pidato yang diucapkan Bung Karno pada tanggal 1 Juni 1945, dan menjadikan dokumen tersebut sebagai teks untuk memproklamasikan kemerdekaan Indonesia.
+Setelah melalui proses persidangan dan lobi-lobi akhirnya rumusan Pancasila hasil penggalian Bung Karno tersebut berhasil dirumuskan untuk dicantumkan dalam Mukadimah UUUD 1945, yang disahkan dan dinyatakan sah sebagai dasar negara Indonesia merdeka pada tanggal 18-08-1945 oleh BPUPKI.
+
+
+
+
+
+</text>
+		</slide>
+		<slide index="6" title="Filsafat Pancasila" titleNormalized="filsafat pancasila" src="slide7.swf" size="6381" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Filsafat Pancasila
+Pancasila dikatakan sebagai filsafat, karena Pancasila merupakan hasil perenungan jiwa yang mendalam yang dilakukan oleh the founding fathers kita, yang dituangkan dalam suatu sistem (Ruslan Abdul Gani).
+Pancasila sebagai filsafat mengandung pandangan, nilai, dan pemikiran yang dapat menjadi substansi dan isi pembentukan ideologi Pancasila.
+Filsafat Pancasila memberi pengetahuan dan pengertian ilmiah yaitu tentang hakikat dari Pancasila (Notonagoro).
+Filsafat Pancasila dapat didefinisikan secara ringkas sebagai refleksi kritis dan rasional tentang Pancasila sebagai dasar negara dan kenyataan budaya bangsa, dengan tujuan untuk mendapatkan pokok-pokok pengertiannya yang mendasar dan menyeluruh.
+
+
+
+
+
+</text>
+		</slide>
+		<slide index="7" title="Pancasila Sebagai Sistem Filsafat" titleNormalized="pancasila sebagai sistem filsafat" src="slide8.swf" size="6029" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancasila Sebagai Sistem Filsafat
+	Pancasila merupakan suatu sistem filsafat. Dalam sistem itu masing-masing silanya saling kait mengkait merupakan satu kesatuan yang menyeluruh. Di dalam Pancasila tercakup filsafat hidup dan cita-cita luhur bangsa Indonesia tentang hubunagan manusia dengan Tuhan, hubungan manusia dengan sesame manusia, hubungan manusia dengan lingkungannya. 
+	Menurut Driyakarya, Pancasila memperoleh dasarnya pada eksistensi manusia sebagai manusia, lepas dari keadaan hidupnya yang tertentu. Pancasila merupakan filsafat tentang kodrat manusia. Dalam pancasila tersimpul hal-hal yang asasi tentang manusia. Oleh karena itu pokok-pokok Pancasila bersifat universal.
+</text>
+		</slide>
+		<slide index="8" title="Fungsi Filsafat Pancasila" titleNormalized="fungsi filsafat pancasila" src="slide9.swf" size="6209" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fungsi Filsafat Pancasila
+	Untuk mengetahui lebih lanjut mengenai fungsi filsafat Pancasila perlu dikaji tantang ilmu-ilmu yang erat kaitannya dalam kehidupan berbangsa dan bernegara. Fungsi filsafat secara umum, sebagai berikut :
+Memberi jawaban atas pernyataan yang bersifat fundamental atau mendasar dalam kehidupan bernegara. Segala aspek yang erat kaitannya dengan kehidupan masyarakat bangsa tersebut dan yang berkaitan dengan kelangsungan hidup dari negara bersangkutan. 
+Filsafat Pancasila mampu memberikan dan mencari kebenaran yang substansi tentang hakikat negara, ide negara, dan tujuan negara.
+Pancasila sebagi filsafat bangsa harus mampu menjadi perangkat dan pemersatu dari berbagai ilmu yang dikembangkan di Indonesia.
+
+
+
+
+</text>
+		</slide>
+		<slide index="9" title="Aktualisasi Pancasila" titleNormalized="aktualisasi pancasila" src="slide10.swf" size="5974" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Aktualisasi Pancasila
+	Aktualisasi merupakan suatu bentuk kegiatan melakukan realisasi antara pemahaman akan nilai dan norma dengan tindakan dan perbuatan yang dilakukan dalam kehidupan sehari-hari. Sedangkan aktualisasi pancasila, berarti penjabaran nilai-nilai pancasila dalam bentuk norma-norma, serta merealisasikannya dalam kehidupan berBangsa dan berNegara. Dalam aktualisasi Pancasila ini, penjabaran nilai-nilai Pancasila dalam bentuk norma-norma, dijumpai dalam bentuk norma hukum, kenegaraan, dan norma-norma moral. Sedangkan realisasinya dikaitkan dengan tingkah laku semua warga negara dalam masyarakat, berBangsa dan berNegara, serta seluruh aspek penyelenggaraan negara.
+
+</text>
+		</slide>
+		<slide index="10" title="Macam Macam Aktualisasi Pancasila" titleNormalized="macam macam aktualisasi pancasila" src="slide11.swf" size="6040" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Macam Macam Aktualisasi Pancasila
+	Aktualisasi Pancasila dapat dibedakan atas dua macam yaitu aktualisasi Pancasila obyektif dan subyektif :
+Aktualisasi Pancasila obyektif yaitu aktualisasi Pancasila dalam berbagai bidang kehidupan kenegaraan yang meliputi kelembagaan negara antara lain legislatif, eksekutif maupun yudikatif. 
+Aktualisasi Pancasila subyektif adalah pelaksanaan Pancasila dalam setiap pribadi, perorangan, setiap warga negara, setiap individu, setiap penduduk, setiap penguasa dan setiap orang Indonesia dalam aspek moral dalam kaitannya dengan hidup negara dan masyarakat. 
+
+</text>
+		</slide>
+	</slides>
+</presentation>
